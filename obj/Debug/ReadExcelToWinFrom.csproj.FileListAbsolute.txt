@@ -1,0 +1,3 @@
+C:\Users\Chanda\Downloads\ReadExcelToWinForm\obj\Debug\ReadExcelToWinFrom.csprojAssemblyReference.cache
+C:\Users\Chanda\Downloads\ReadExcelToWinForm\obj\Debug\ReadExcelToWinForm.Form1.resources
+C:\Users\Chanda\Downloads\ReadExcelToWinForm\obj\Debug\ReadExcelToWinFrom.csproj.GenerateResource.cache

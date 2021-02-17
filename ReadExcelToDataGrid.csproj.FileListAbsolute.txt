@@ -1,0 +1,9 @@
+C:\Chanda\ReadExcel\ReadExcelToWinForm\ReadExcelToDataGrid\ReadExcelToDataGrid\bin\Debug\ReadExcelToDataGrid.exe.config
+C:\Chanda\ReadExcel\ReadExcelToWinForm\ReadExcelToDataGrid\ReadExcelToDataGrid\bin\Debug\ReadExcelToDataGrid.exe
+C:\Chanda\ReadExcel\ReadExcelToWinForm\ReadExcelToDataGrid\ReadExcelToDataGrid\bin\Debug\ReadExcelToDataGrid.pdb
+C:\Chanda\ReadExcel\ReadExcelToWinForm\ReadExcelToDataGrid\ReadExcelToDataGrid\obj\Debug\ReadExcelToDataGrid.csprojResolveAssemblyReference.cache
+C:\Chanda\ReadExcel\ReadExcelToWinForm\ReadExcelToDataGrid\ReadExcelToDataGrid\obj\Debug\ReadExcelToDataGrid.Form1.resources
+C:\Chanda\ReadExcel\ReadExcelToWinForm\ReadExcelToDataGrid\ReadExcelToDataGrid\obj\Debug\ReadExcelToDataGrid.Properties.Resources.resources
+C:\Chanda\ReadExcel\ReadExcelToWinForm\ReadExcelToDataGrid\ReadExcelToDataGrid\obj\Debug\ReadExcelToDataGrid.csproj.GenerateResource.Cache
+C:\Chanda\ReadExcel\ReadExcelToWinForm\ReadExcelToDataGrid\ReadExcelToDataGrid\obj\Debug\ReadExcelToDataGrid.exe
+C:\Chanda\ReadExcel\ReadExcelToWinForm\ReadExcelToDataGrid\ReadExcelToDataGrid\obj\Debug\ReadExcelToDataGrid.pdb
